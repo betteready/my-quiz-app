@@ -8,7 +8,7 @@ const questionData: IQuestion[] = [
             'leaves',
             'roots',
             'stem',
-            'flowers',
+            'flowerss',
 
         ],
         answer: 1,
